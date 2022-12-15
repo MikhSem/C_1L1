@@ -1,0 +1,15 @@
+D:\обучение\C#\Less_1\Pro_3\bin\Debug\net6.0\Pro_3.exe
+D:\обучение\C#\Less_1\Pro_3\bin\Debug\net6.0\Pro_3.deps.json
+D:\обучение\C#\Less_1\Pro_3\bin\Debug\net6.0\Pro_3.runtimeconfig.json
+D:\обучение\C#\Less_1\Pro_3\bin\Debug\net6.0\Pro_3.dll
+D:\обучение\C#\Less_1\Pro_3\bin\Debug\net6.0\Pro_3.pdb
+D:\обучение\C#\Less_1\Pro_3\obj\Debug\net6.0\Pro_3.csproj.AssemblyReference.cache
+D:\обучение\C#\Less_1\Pro_3\obj\Debug\net6.0\Pro_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\обучение\C#\Less_1\Pro_3\obj\Debug\net6.0\Pro_3.AssemblyInfoInputs.cache
+D:\обучение\C#\Less_1\Pro_3\obj\Debug\net6.0\Pro_3.AssemblyInfo.cs
+D:\обучение\C#\Less_1\Pro_3\obj\Debug\net6.0\Pro_3.csproj.CoreCompileInputs.cache
+D:\обучение\C#\Less_1\Pro_3\obj\Debug\net6.0\Pro_3.dll
+D:\обучение\C#\Less_1\Pro_3\obj\Debug\net6.0\refint\Pro_3.dll
+D:\обучение\C#\Less_1\Pro_3\obj\Debug\net6.0\Pro_3.pdb
+D:\обучение\C#\Less_1\Pro_3\obj\Debug\net6.0\Pro_3.genruntimeconfig.cache
+D:\обучение\C#\Less_1\Pro_3\obj\Debug\net6.0\ref\Pro_3.dll
